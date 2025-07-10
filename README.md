@@ -1,4 +1,4 @@
-# Minus-External
+# Minus-External-Base
 
 A C++ external overlay application built with ImGui and DirectX 11 for Windows.
 
