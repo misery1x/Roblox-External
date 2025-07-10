@@ -35,7 +35,7 @@ SimpleESP/
 
 **Steps:**
 1. Clone the repo:
-2. git clone https://github.com/yourusername/SimpleESP.git
+2. git clone https://github.com/misery1x/Roblox-External.git
 cd Roblox-External
 2. Open `Minus-External.sln` in Visual Studio  
 3. Set config to `Release` and platform to `x64`  
@@ -46,7 +46,7 @@ cd Roblox-External
 ## ▶️ How to Use
 
 1. Launch the game/app you want ESP for  
-2. Run `SimpleESP.exe` as **Administrator**  
+2. Run `Minus-External.exe` as **Administrator**  
 3. Overlay appears automatically  
 4. Press `Ctrl + C` to exit  
 
