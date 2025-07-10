@@ -52,16 +52,16 @@ cd Roblox-External
 
 ---
 
-## 🧪 Example Code
+### Example Code
 
-```cpp
 if (!ActorLoop->Initialize()) return -1;
 if (!OverlayInstance->Initialize()) return -1;
 
-while (OverlayInstance->IsRunning()) {
- OverlayInstance->BeginFrame();
- ActorLoop->Render(OverlayInstance.get());
- OverlayInstance->EndFrame();
+while (OverlayInstance->IsRunning())
+{
+    OverlayInstance->BeginFrame();
+    ActorLoop->Render(OverlayInstance.get());
+    OverlayInstance->EndFrame();
 }
 
 ⚠️ Disclaimer
