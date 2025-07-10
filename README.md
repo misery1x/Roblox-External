@@ -175,6 +175,6 @@ We welcome contributions that improve the educational value of this project!
 
 **Built with ❤️ by Stackswise**
 
-[Report Bug](https://github.com//misery1x/Roblox-External/issues) • [Request Feature](https://github.com/misery1x/Roblox-External/issues) • [Documentation](https://github.com/misery1x/Roblox-External/wiki)
+[Report Bug](https://github.com//misery1x/Roblox-External/issues) • [Request Feature](https://github.com/misery1x/Roblox-External/issues)
 
 </div> 
