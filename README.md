@@ -81,7 +81,7 @@ SimpleESP/
 2. **Open in Visual Studio**
    ```bash
    # Open the solution file
-   start SimpleESP.sln
+   start Minus-External.sln
    ```
 
 3. **Configure build settings**
@@ -173,7 +173,7 @@ We welcome contributions that improve the educational value of this project!
 
 <div align="center">
 
-**Built with ❤️ for the programming education community**
+**Built with ❤️ by Stackswise**
 
 [Report Bug](https://github.com/yourusername/SimpleESP/issues) • [Request Feature](https://github.com/yourusername/SimpleESP/issues) • [Documentation](https://github.com/yourusername/SimpleESP/wiki)
 
