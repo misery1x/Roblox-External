@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](#license)
 [![DirectX](https://img.shields.io/badge/Graphics-DirectX%2011-red.svg)](https://docs.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11)
 
+![image](https://github.com/user-attachments/assets/6c157248-7d93-478b-b96b-730f8399f5b2)
+
 ## 📋 Table of Contents
 - [Features](#features)
 - [Technical Implementation](#technical-implementation)
