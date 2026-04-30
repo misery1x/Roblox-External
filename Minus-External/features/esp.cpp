@@ -341,10 +341,10 @@ Matrix4x4 ActorLoopClass::GetViewMatrix()
 {
     Matrix4x4 view_matrix{};
     
-    uintptr_t visual_engine = memory->ReadMemory<uintptr_t>(game_base + 0x66712A8);
+    uintptr_t visual_engine = memory->ReadMemory<uintptr_t>(game_base + Offsets::VisualEnginePointer);
     if (!visual_engine) return view_matrix;
     
-    view_matrix = memory->ReadMemory<Matrix4x4>(visual_engine + 0x4B0);
+    view_matrix = memory->ReadMemory<Matrix4x4>(visual_engine + Offsets::ViewMatrix);
     return view_matrix;
 }
 
@@ -371,4 +371,5 @@ bool ActorLoopClass::WorldToScreen(const Vector3& world_pos, Vector2D& screen_po
     screen_pos.y = screen_height_half * (1.0f - screen_pos.y);
 
     return true;
+
 } 
